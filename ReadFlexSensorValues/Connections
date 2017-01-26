@@ -1,0 +1,7 @@
+Connections:
+
+Flex sensor 1 to Analog pin A0 through 22k resistor
+Flex sensor 2 to Analog pin A1 through 22k resistor
+Flex sensor 3 to Analog pin A2 through 22k resistor
+Flex sensor 4 to Analog pin A3 through 22k resistor
+Flex sensor 5 to Analog pin A4 through 22k resistor
